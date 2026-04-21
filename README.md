@@ -2,14 +2,14 @@
 
 I work on applying AI to real-world problems, especially in **policy, law, and climate**.
 
-My current focus is on building systems that turn complex, multilingual text into structured, usable data.
+My current focus is on building systems useful for everyone beyond expert users.
 
 ---
 
 ### 🧠 Current work
 - LLM pipelines for legal and policy analysis  
 - Multilingual retrieval and classification  
-- Evaluation of LLM systems in real-world workflows  
+- Evaluation of AI systems in real-world workflows  
 
 ---
 
