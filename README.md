@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Raúl 👋
 
-<!--
-**raulpzs/raulpzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on applying AI to real-world problems, especially in **policy, law, and climate**.
 
-Here are some ideas to get you started:
+My current focus is on building systems that turn complex, multilingual text into structured, usable data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Current work
+- LLM pipelines for legal and policy analysis  
+- Multilingual retrieval and classification  
+- Evaluation of LLM systems in real-world workflows  
+
+---
+
+### ⚙️ Tools
+Python · LLMs · NLP · RAG · SQL · TensorFlow · Scikit-learn  
+
+---
+
+### 🌎 Interests
+AI for public policy · Climate
