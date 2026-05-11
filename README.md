@@ -1,8 +1,6 @@
 ## Hi, I'm Raúl 👋
 
-I work on applying AI to real-world problems, especially in **policy, law, and climate**.
-
-My current focus is on building systems useful for everyone beyond expert users.
+I work on applying AI to real-world problems in **policy, law, and climate**.
 
 ---
 
